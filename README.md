@@ -8,7 +8,7 @@ I work across product strategy, technology, user experience, business developmen
 
 From there, I enjoy taking an idea through the messy middle, understanding the problem, shaping the product, thinking through the experience, working out the systems behind it, and helping turn it into something people can actually use.
 
-Over time, I've worked on products and experiments across areas like Artificial Intelligence (AI), education, procurement, business operations, professional platforms, community technology, automation, and digital services. Some are early experiments, some are products being actively developed, and others have grown into much larger ideas.
+Over time, I've worked on products and experiments across areas like Artificial Intelligence (AI), education, procurement, business operations, professional platforms, community technology,health,automation, and digital services. Some are early experiments, some are products being actively developed, and others have grown into much larger ideas.
 
 I also enjoy the work that happens outside the code. I've been involved in marketing, community building, project coordination, team collaboration, product research, and helping people move from an idea to an actual plan.
 
