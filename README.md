@@ -1,6 +1,6 @@
 # Hey, I'm Ayo Richard Abe 👋
 
-### God TECH![GitHub Repo Card](https://githubcard.com/Brilliant-lucid/Ayo-Richard-ABE.git.svg) 
+### God TECH! 
 
 I'm a Product Manager, Product Developer, and Technology Strategist interested in turning ideas into useful products and real-world solutions.
 
